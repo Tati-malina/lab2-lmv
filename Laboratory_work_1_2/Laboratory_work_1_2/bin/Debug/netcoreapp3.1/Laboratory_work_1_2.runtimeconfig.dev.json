@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ziko\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ziko\\.nuget\\packages"
+    ]
+  }
+}
